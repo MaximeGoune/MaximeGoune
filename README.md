@@ -7,7 +7,8 @@
 - <b>SOC Prjects</b>
   - <b><i>(Potentially NSFW)</b></i>
 
-  - <b>IAM Projects Prjects</b>
+
+- <b>IAM Projects Prjects</b>
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
