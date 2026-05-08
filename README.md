@@ -1,6 +1,7 @@
-<h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Cybersecurityr</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Cybersecurity</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity , System admin  Professional</a>, <a 
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:</h2> 
+<h2>👨‍💻System admin Projects:</h2>
 
 - <b>MDM Intune Project</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -16,7 +17,10 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b></b>
+
   
+- <b>Cloud  Projects Prjects</b>
+
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
 
