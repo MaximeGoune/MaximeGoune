@@ -4,19 +4,23 @@
 <h2>👨‍💻System admin Projects:</h2>
 
 - <b>MDM Intune Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zero-Touch-Windows-Provisioning-with-Autopilot](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - 
 - <b>SOC Prjects</b>
-  - <b><i>(Potentially NSFW)</b></i>
+  - <b><i>(Sentinel ,Splunk ,)</b></i>
 
 
 - <b>IAM Projects Prjects</b>
   
 - <b>PowerShell</b>
+ <b>PowerShell for helpdesk</b>
   - [windows viewer project]()
   - [Disk management )]()
   - [Active Directory Bulk User Creation]()
   - []()
 - <b></b>
+
+
 
   
 - <b>Cloud  Projects Prjects</b>
