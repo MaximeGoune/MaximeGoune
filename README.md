@@ -12,16 +12,16 @@
 - <b>IAM Projects Prjects</b>
   
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [windows viewer project]()
+  - [Disk management )]()
+  - [Active Directory Bulk User Creation]()
+  - []()
 - <b></b>
 
   
 - <b>Cloud  Projects Prjects</b>
 
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Creat Virtual machine in Azure]()
 - <b>Python</b>
 
 <h2>📺 Popular YouTube Videos</h2>
