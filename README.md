@@ -31,7 +31,7 @@
 - <b>Cloud  Projects Prjects</b>
 
   - [Creat Virtual machine in Azure]()
-- <b>Python</b>
+- <b>Ansible</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
