@@ -5,13 +5,18 @@
 
 - <b>MDM Intune Project</b>
   - [Zero-Touch-Windows-Provisioning-with-Autopilot](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
-  - 
+  - [Rename a computer using Intune](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - [Apps installation with intune](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - [Configuration of Disk Encryption ](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - [Onboarding Device Intune enrolled Device in MS Defender ](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - [Configuration of LAPS ](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
 - <b>SOC Prjects</b>
   - <b><i>(Sentinel ,Splunk ,)</b></i>
-
+      [Configuration of Splunk ]()
+       
 
 - <b>IAM Projects Prjects</b>
-  
+     
 - <b>PowerShell</b>
  <b>PowerShell for helpdesk</b>
   - [windows viewer project]
