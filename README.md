@@ -6,7 +6,7 @@
 - <b>MDM Intune Project</b>
   - [Zero-Touch-Windows-Provisioning-with-Autopilot](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
   - [Rename a computer using Intune](https://github.com/MaximeGoune/Rename-computer-with-Intune)
-  - [Apps installation with intune](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
+  - [Apps installation with intune](https://github.com/MaximeGoune/Apps-installation-with-Intune-Chrome-)
   - [Configuration of Disk Encryption ](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
   - [Onboarding Device Intune enrolled Device in MS Defender ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
   - [Configuration of LAPS ](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
