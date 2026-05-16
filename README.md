@@ -19,9 +19,7 @@
      
 - <b>PowerShell</b>
  <b>PowerShell for helpdesk</b>
-  - [windows viewer project]
-  - [Disk management )]()
-  - [Active Directory Bulk User Creation]()
+  - [Account-Creation-in-Microsoft-365-MS-graph](https://github.com/MaximeGoune/Account-Creation-in-Microsoft-365-MS-graph-)
   - []()
 - <b></b>
 
