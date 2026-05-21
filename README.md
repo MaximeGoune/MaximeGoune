@@ -31,8 +31,15 @@
   - [Creat Virtual machine in Azure](https://github.com/MaximeGoune/Creating-Virtual-machine-in-Azure)
 - <b>Ansible</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺Project working on</h2>
+       -[Deploying A Domain Controller on windows server 2022  ]
+         -[Configuration of DHCP , DNS ,  ]
+           -[Creatin AD user with powershell ]
+          -[auditing user acces and groups with powershell]
+           - -[auditing user acces and groups with powershell]
 
+    -[ Syncrhronising my Domain with Azure entra ID Connect  ]
+      -[ Powershel script to Clear : Teams cache ,outlook cache , chrome cache  ]
 
 
 <h2> 🤳 Connect with me:</h2>
