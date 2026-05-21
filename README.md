@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Technical Support analyst</a>, <a href="https://www.linkedin.com/in/maximegoune/"> </a>, System admin  Professional</a>, <a 
 
 <h2>👨‍💻:</h2> 
-<h2>👨‍💻System admin Projects:</h2>
+<h2>👨‍💻IT Projects:</h2>
 
 - <b>MDM Intune Project</b>
   - [Zero-Touch-Windows-Provisioning-with-Autopilot](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
