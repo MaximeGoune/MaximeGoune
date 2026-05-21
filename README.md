@@ -1,6 +1,6 @@
-<h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Endpoint Support analyst</a>, <a href="https://www.linkedin.com/in/maximegoune/"> Cybersecurity</a>, System admin  Professional</a>, <a 
+<h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Technical Support analyst</a>, <a href="https://www.linkedin.com/in/maximegoune/"> </a>, System admin  Professional</a>, <a 
 
-<h2>👨‍💻Cybersecurity Projects:</h2> 
+<h2>👨‍💻:</h2> 
 <h2>👨‍💻System admin Projects:</h2>
 
 - <b>MDM Intune Project</b>
