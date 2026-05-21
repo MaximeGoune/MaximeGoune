@@ -28,7 +28,7 @@
   
 - <b>Cloud  Projects Prjects</b>
 
-  - [Creat Virtual machine in Azure]()
+  - [Creat Virtual machine in Azure](https://github.com/MaximeGoune/Creating-Virtual-machine-in-Azure)
 - <b>Ansible</b>
 
 <h2>📺 Popular YouTube Videos</h2>
