@@ -11,9 +11,12 @@
   - [Onboarding Device Intune enrolled Device in MS Defender ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
   - [Configuration of LAPS ](https://github.com/MaximeGoune/Configuration-of-LAPS/)
   -   - [Apps-installation-with-Intune ](https://github.com/MaximeGoune/Apps-installation-with-Intune-Chrome-)
+      -    - [Rename-computer-with-Intune ](https://github.com/MaximeGoune/Rename-computer-with-Intune)
 - <b>SOC Prjects</b>
   - <b><i>(Sentinel  ,)</b></i>
-      [Configuration of Splunk ]()
+      [Microsoft-Sentinel-SIEM-Configuration](https://github.com/MaximeGoune/Microsoft-Sentinel-SIEM-Configuration)
+     [Vulnerability-Management-with-Microsoft-Defender ](https://github.com/MaximeGoune/Vulnerability-Management-with-Microsoft-Defender)
+     [Configure-Defender-for-Endpoint-Onboarding ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
        
 
 - <b>IAM Projects Prjects</b>
@@ -33,15 +36,7 @@
 - <b>Ansible</b>
 
 <h2>📺Project working on</h2>
-       -[Deploying A Domain Controller on windows server 2022  ]
-         -[Configuration of DHCP , DNS ,  ]
-           -[Creatin AD user with powershell ]
-          -[auditing user acces and groups with powershell]
-           - -[auditing user acces and groups with powershell]
-
-    -[ Syncrhronising my Domain with Azure entra ID Connect  ]
-      -[ Powershel script to Clear : Teams cache ,outlook cache , chrome cache  ]
-
+     
 
 <h2> 🤳 Connect with me:</h2>
 
