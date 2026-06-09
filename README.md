@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maxime! <br/><a href="https://github.com/MaximeGoune">Technical Support analyst</a>, <a href="https://www.linkedin.com/in/maximegoune/"> </a>, System admin  Professional</a>, <a 
 
 <h2>👨‍💻:</h2> 
-<h2>👨‍💻IT Projects:</h2>
+<h2>👨‍💻IT Projects:</h2></i>
 
 - <b>MDM Intune Project</b>
   - [Zero-Touch-Windows-Provisioning-with-Autopilot](https://github.com/MaximeGoune/Zero-Touch-Windows-Provisioning-with-Autopilot-)
@@ -12,18 +12,20 @@
   - [Configuration of LAPS ](https://github.com/MaximeGoune/Configuration-of-LAPS/)
   -   - [Apps-installation-with-Intune ](https://github.com/MaximeGoune/Apps-installation-with-Intune-Chrome-)
       -    - [Rename-computer-with-Intune ](https://github.com/MaximeGoune/Rename-computer-with-Intune)
-- <b>SOC Prjects</b>
-  - <b><i>(Sentinel  ,)</b></i>
-    - [Microsoft-Sentinel-SIEM-Configuration](https://github.com/MaximeGoune/Microsoft-Sentinel-SIEM-Configuration)
-   - [Vulnerability-Management-with-Microsoft-Defender ](https://github.com/MaximeGoune/Vulnerability-Management-with-Microsoft-Defender)
-    -[Configure-Defender-for-Endpoint-Onboarding ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
+           - 
+- <b>SOC Prpjects</b>
+  - <b><i>(Sentinel  ,)</b>
+    - [Microsoft-Sentinel-SIEM-Configuration](https://github.com/MaximeGoune/Microsoft-Sentinel-SIEM-Configuration) </b>
+  - [Vulnerability-Management-with-Microsoft-Defender ](https://github.com/MaximeGoune/Vulnerability-Management-with-Microsoft-Defender)</b>
+  
+    [Configure-Defender-for-Endpoint-Onboarding ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)</b>
        
 
 - <b>IAM Projects Prjects</b>
      
 - <b>PowerShell</b>
  <b>PowerShell for helpdesk</b>
-  - [Account-Creation-in-Microsoft-365-MS-graph](https://github.com/MaximeGoune/Account-Creation-in-Microsoft-365-MS-graph-)
+ </b> - [Account-Creation-in-Microsoft-365-MS-graph](https://github.com/MaximeGoune/Account-Creation-in-Microsoft-365-MS-graph-)
   - []()
 - <b></b>
 
