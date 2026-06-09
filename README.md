@@ -10,8 +10,9 @@
   - [Configuration of Disk Encryption ](https://github.com/MaximeGoune/DiskEncryption)
   - [Onboarding Device Intune enrolled Device in MS Defender ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
   - [Configuration of LAPS ](https://github.com/MaximeGoune/Configuration-of-LAPS/)
+  -   - [Apps-installation-with-Intune ](https://github.com/MaximeGoune/Apps-installation-with-Intune-Chrome-)
 - <b>SOC Prjects</b>
-  - <b><i>(Sentinel ,Splunk ,)</b></i>
+  - <b><i>(Sentinel  ,)</b></i>
       [Configuration of Splunk ]()
        
 
