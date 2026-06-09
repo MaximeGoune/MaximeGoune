@@ -14,9 +14,9 @@
       -    - [Rename-computer-with-Intune ](https://github.com/MaximeGoune/Rename-computer-with-Intune)
 - <b>SOC Prjects</b>
   - <b><i>(Sentinel  ,)</b></i>
-      [Microsoft-Sentinel-SIEM-Configuration](https://github.com/MaximeGoune/Microsoft-Sentinel-SIEM-Configuration)
-     [Vulnerability-Management-with-Microsoft-Defender ](https://github.com/MaximeGoune/Vulnerability-Management-with-Microsoft-Defender)
-     [Configure-Defender-for-Endpoint-Onboarding ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
+    - [Microsoft-Sentinel-SIEM-Configuration](https://github.com/MaximeGoune/Microsoft-Sentinel-SIEM-Configuration)
+   - [Vulnerability-Management-with-Microsoft-Defender ](https://github.com/MaximeGoune/Vulnerability-Management-with-Microsoft-Defender)
+    -[Configure-Defender-for-Endpoint-Onboarding ](https://github.com/MaximeGoune/Configure-Defender-for-Endpoint-Onboarding)
        
 
 - <b>IAM Projects Prjects</b>
